@@ -1,12 +1,11 @@
+# Police Lights on ATtiny10
 
 Lightweight hardware with Police Traffic Lights flashing patterns. 
 
-Suitable for TinyWhoops or other tiny models. 
-
-Weight is about 0.3 grams (depending on size and weight of your PCB)
+Suitable for TinyWhoops or other tiny models. Weight is about 0.3 grams (depending on size and weight of your PCB).
 
 
-Schematic ([dipTrace file](policeLightsWhoop.dch)):
+Schematic ([DipTrace format](policeLightsWhoop.dch)):
 
 ![](schematic.png)
 
